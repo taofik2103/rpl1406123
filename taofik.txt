@@ -2,3 +2,4 @@ Nama : Taofik Faturochman
 NIM : 1406123
 Alamat : Kp. Excello Rt04 Rw09 Kel. Pataruman Kec. Tarogong Kidul
 MAN 1 Garut
+Teknik Informatika C 2014
